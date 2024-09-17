@@ -50,7 +50,9 @@ A simple Calculator application developed using Android Studio. This app perform
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
+   git clone https://github.com/apoorvapai/Calculator.git
+
+or use the Zip File
 
 2. **Open the Project:** <br>
   Launch Android Studio. 🖥️<br>
